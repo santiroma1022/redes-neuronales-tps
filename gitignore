@@ -1,0 +1,12 @@
+# Se regeneran al correr el notebook
+runs/
+mlruns/
+mlflow.db
+mlartifacts/
+*.pkl
+*.db
+*_rapido.json
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/

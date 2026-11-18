@@ -1,0 +1,10 @@
+# Python 3.13.9 – generado por el notebook TP3
+torch==2.14.0
+numpy==2.3.5
+pandas==2.3.3
+scikit-learn==1.7.2
+matplotlib==3.10.6
+nltk==3.9.2
+optuna==5.0.0
+mlflow==3.16.1
+tensorboard==2.21.0
