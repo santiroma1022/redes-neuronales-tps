@@ -63,4 +63,6 @@ TensorBoard queda en http://localhost:6006 y MLflow en http://localhost:5000. La
 
 ![TensorBoard – curvas](img/tensorboard_curvas.png)
 
+Colores: azul = BatchNorm, naranja = base sin regularización, verde = Dropout 0.5, rojo = L2 1e-3.
+
 ![TensorBoard – histogramas de pesos](img/tensorboard_histogramas.png)
