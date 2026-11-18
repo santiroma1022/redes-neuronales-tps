@@ -1,4 +1,4 @@
-# Python 3.13.9 – generado por el notebook TP3
+# Python 3.13.9 - generado por el notebook TP3
 torch==2.14.0
 numpy==2.3.5
 pandas==2.3.3
